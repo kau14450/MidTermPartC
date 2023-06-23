@@ -12,6 +12,7 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author Satnamjeet Kaur, 2023
+ * A new branch has been created now. 
  */
 public class UserProfile 
 {
@@ -60,6 +61,7 @@ public class UserProfile
     public void setGenre(String genre) {
         this.genre = genre;
     }
+    
     
     
     
