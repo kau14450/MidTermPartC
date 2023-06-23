@@ -12,6 +12,7 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author Satnamjeet Kaur, 2023
+ Editing for last (Fetch and merge step).
  */
 public class UserProfile 
 {
